@@ -13,5 +13,5 @@ A Vietnamese living in New Zealand </br>
 
 🧠 What I'm playing with 🤑 </br>
   => E-commerce website </br>
-  => Interesting with Trading Bot and Trading Algorithm
+  => Interesting and Learning Trading Bot and Trading Algorithm
 
