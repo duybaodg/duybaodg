@@ -1,16 +1,16 @@
 ## Hi there 👋
+I'm Bao, a software developer from Wellington, New Zealand 🇳🇿
 
-<!--
-**duybaodg/duybaodg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎉 Welcome to my profile. 🎉
 
-Here are some ideas to get you started:
+🛠 Technologies and Tools 🛠
+[![My Skills](https://skillicons.dev/icons?i=java,cs,py,react,mysql,git,javascript,html,css,typescript,bootstrap&perline=8)](https://skillicons.dev)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+📬 Where can you find me?
+
+<a href="https://www.linkedin.com/in/duybaodanghoang/">My Linkedin</>
+
+🧠 What I'm playing with 🤑
+E-commerce website
+Interesting with Trading Bot and Trading Algorithm
+
