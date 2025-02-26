@@ -11,6 +11,6 @@ I'm Bao, a software developer from Wellington, New Zealand 🇳🇿
 <a href="https://www.linkedin.com/in/duybaodanghoang/">My Linkedin</a>
 
 🧠 What I'm playing with 🤑
-E-commerce website
+E-commerce website </br>
 Interesting with Trading Bot and Trading Algorithm
 
