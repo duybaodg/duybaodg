@@ -8,7 +8,7 @@ I'm Bao, a software developer from Wellington, New Zealand 🇳🇿
 
 📬 Where can you find me?
 
-<a href="https://www.linkedin.com/in/duybaodanghoang/">My Linkedin</>
+<a href="https://www.linkedin.com/in/duybaodanghoang/">My Linkedin</a>
 
 🧠 What I'm playing with 🤑
 E-commerce website
