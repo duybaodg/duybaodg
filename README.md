@@ -5,7 +5,7 @@ A Vietnamese living in New Zealand </br>
 
 🛠 Technologies and Tools 🛠 </br>
 
-[![My Skills](https://skillicons.dev/icons?i=java,cs,py,react,mysql,git,javascript,html,css,typescript,bootstrap&perline=12)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=java,cs,py,mysql,git,javascript,html,css,bootstrap&perline=12)](https://skillicons.dev)
 
 📬 Where can you find me?
 
