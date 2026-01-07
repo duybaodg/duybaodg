@@ -1,17 +1,95 @@
-## Hi there 👋
-I'm Bao, a software developer from Wellington, New Zealand 🇳🇿 </br>
-A Vietnamese living in New Zealand </br>
-🎉 Welcome to my profile. 🎉
+# Hoang Bao Duy Dang (William)
 
-🛠 Technologies and Tools 🛠 </br>
+📍 **New Zealand**
+📧 **Email:** [william.dang.hoang@gmail.com](mailto:william.dang.hoang@gmail.com)
+📞 **Phone:** +64 20 483 6195
 
-[![My Skills](https://skillicons.dev/icons?i=java,cs,py,mysql,git,javascript,html,css,bootstrap&perline=12)](https://skillicons.dev)
+🔗 **GitHub:** [https://github.com/duybaodg](https://github.com/duybaodg)
+🔗 **Portfolio:** [https://duybaodg.github.io/](https://duybaodg.github.io/)
+🔗 **LinkedIn:** [https://www.linkedin.com/in/duybaodanghoang](https://www.linkedin.com/in/duybaodanghoang)
 
-📬 Where can you find me?
+---
 
-<a href="https://www.linkedin.com/in/duybaodanghoang/" rel="nofollow"> <img src="https://camo.githubusercontent.com/8d89f0b27fe7c2e4211e269b6aea7fbf1434ee8856d7c3c2482f4110f0891a0c/68747470733a2f2f696d672e69636f6e73382e636f6d2f627562626c65732f3130302f3030303030302f6c696e6b6564696e2e706e67" data-canonical-src="https://img.icons8.com/bubbles/100/000000/linkedin.png" style="max-width: 100%;"></a>
+## 👨‍💻 Personal Statement
 
-🧠 What I'm playing with 🤑 </br>
-  => E-commerce website </br>
-  => Interesting and Learning Trading Bot and Trading Algorithm
+Junior software developer with a strong foundation in full-stack development and a keen interest in building reliable, real-world software solutions. I have hands-on experience developing backend APIs, working with frontend web technologies, and integrating systems end-to-end.
+
+I am actively developing my skills in C# and .NET, and I am comfortable learning new stacks quickly, having worked across multiple frameworks and technologies during my studies, internship, and personal projects. I enjoy working collaboratively, learning from experienced developers, and continuously improving my technical and communication skills.
+
+---
+
+## 🚀 Project Highlights
+
+### Dharta – Contract Management System (Internship Project)
+
+**Backend & API Development**
+
+* Enhanced an existing contract management system by implementing OCR processing using Tesseract to extract text from image-based PDFs
+* Integrated backend APIs to support AI-driven data extraction and validation workflows
+* Achieved **98% backend** and **94% frontend** test coverage
+* Optimised processing to handle large contracts (up to 50,000 words)
+
+---
+
+## 🛠️ Personal Projects
+
+### YouTube Tools Web Application
+
+**Full-stack Web Application**
+
+* Designed and built a lightweight web application with backend APIs for discovering YouTube content and processing media data
+* Implemented REST APIs using Flask, returning structured JSON and CSV outputs
+* Integrated AI services for speech-to-text, text-to-speech, and automated media processing workflows
+* Reduced manual workload by approximately **80%** through automation
+
+### Wellington Bus Tracking Android Application
+
+* Built an Android application to display real-time bus locations using external APIs and Google Maps
+* Implemented live data updates and route visualisation
+
+### Linux Server & Deployment
+
+* Built and maintained a Linux server on a Raspberry Pi 5 hosting Docker containers
+* Gained hands-on experience with containerisation, deployment, and basic CI/CD-style workflows
+* Improved understanding of system reliability, monitoring, and environment configuration
+
+---
+
+## 💼 Work Experience
+
+### Full-stack Web Developer Intern
+
+**Ocular NZ – Web Design Agency | Wellington**
+*May – July 2025*
+
+* Developed backend components to process and validate contract data using OCR and API-based workflows
+* Integrated GPT-based services to extract structured data from documents, returning validated JSON outputs
+* Worked within an Agile team environment, participating in code reviews, debugging, and iterative development
+
+### Google Ads Specialist & E-commerce Platform Management
+
+**TVN Group | Vietnam**
+*2018 – 2023*
+
+* Managed and maintained multiple e-commerce platforms (Shopify, BigCommerce, WooCommerce)
+* Developed strong problem-solving, analytical, and stakeholder communication skills
+* Worked with data-driven systems and performance optimisation in a fast-paced environment
+
+---
+
+## 🧰 Technical Skills
+
+* **Programming Languages:** C#, Java, JavaScript, Python, SQL
+* **Frameworks & Technologies:** .NET / ASP.NET (introductory), React (introductory), Flask, REST APIs, MVC architecture
+* **Databases:** MySQL, SQL Server
+* **Cloud & DevOps:** Azure (basic), AWS (basic), Docker, Linux
+* **Tools:** Git, GitHub, n8n
+* **Concepts:** OOP, APIs, MVC architecture, SOLID principles, Data Structures & Algorithms
+
+---
+
+## 🎓 Education
+
+**Victoria University of Wellington**
+Master of Software Development (2024 – 2025)
 
