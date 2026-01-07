@@ -1,11 +1,15 @@
 # Hoang Bao Duy Dang (William)
 
 📍 **New Zealand**
+<br>
 📧 **Email:** [william.dang.hoang@gmail.com](mailto:william.dang.hoang@gmail.com)
+<br>
 📞 **Phone:** +64 20 483 6195
 
 🔗 **GitHub:** [https://github.com/duybaodg](https://github.com/duybaodg)
+<br>
 🔗 **Portfolio:** [https://duybaodg.github.io/](https://duybaodg.github.io/)
+<br>
 🔗 **LinkedIn:** [https://www.linkedin.com/in/duybaodanghoang](https://www.linkedin.com/in/duybaodanghoang)
 
 ---
